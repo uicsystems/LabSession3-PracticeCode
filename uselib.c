@@ -10,6 +10,6 @@ int main(){
 
   int z = multiply(x,y);
 
-  printf("z is %d\n");
+  printf("z is %d\n",z);
 
 }
